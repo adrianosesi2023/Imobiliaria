@@ -1,0 +1,156 @@
+.paragrafo-paragrafo-topo{
+    background-color: rgb(134, 186, 255);
+    text-align: center;
+   margin-bottom: 30px;
+}
+
+.direcionar{
+    padding-bottom: 30px;
+}
+
+.fotoimobi{
+    margin: 30px 20px;
+}
+
+.produtos{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.titulo01{
+    margin-bottom: 0;
+}
+
+.subtitulo01{
+    margin-top: 0;
+    color: rgb(45, 135, 253);
+    font-size: 22px;
+}
+
+.sobre{
+    text-align: center;
+    padding-left: 320px;
+    padding-right: 320px;
+}
+.texto01{
+    text-align: justify;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.Corretores{
+    
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.casinha{
+    width: 600px;
+}
+
+.textocorretor{
+    display: flex;
+}
+
+.Servicos{
+    background-color: blue;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.titulo02{
+    
+    text-align: center;
+}
+
+.texto02{
+    padding-left: 320px;
+    padding-right: 320px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.classificacoes{
+    margin-top: 50px;
+    padding-left: 750px;
+    padding-right: 320px;
+    font-size: 23px;
+    margin-bottom: 50px;
+}
+
+.Contato{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+
+.mapa{
+    width: 800px;
+}
+
+.foto001{
+    width: 35%;
+}
+
+.texto03{
+    padding-left: 220px;
+    padding-right: 220px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.link001{
+    font-size: 22px;
+    
+}
+
+.titulo04{
+    font-size: 30px;
+}
+
+.textcolorido{
+    margin: 15px auto 0 auto;
+    font-size: 20px;
+    width: 1000px;
+    background-color: black;
+   color: white;
+    
+}
+
+.link002{
+    margin: 15px auto 0 auto;
+    font-size: 20px;
+    width: 240px;
+    background-color: white;
+   
+}
+.link02{
+    text-decoration: none;
+    color: blue;
+}
+.link003{
+    margin: 15px auto 0 auto;
+    font-size: 20px;
+    width: 180px;
+    background-color: white;
+}
+.link03{
+    text-decoration: none;
+    color: blue;
+}
+.link004{
+    margin: 15px auto 0 auto;
+    font-size: 20px;
+    width: 170px;
+    background-color: white;
+
+   text-decoration: none;
+}
+.link04{
+    text-decoration: none;
+    color: blue;
+}
